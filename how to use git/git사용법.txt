@@ -1,0 +1,14 @@
+﻿git add *
+- 하위 모든 폴더를 추적
+
+git commit -m "메세지"
+- 메세지를 넣어서 commit 함
+
+git push -u origin master
+- push함
+
+git status
+- 파일 들의 상태를 보여줌
+
+git rm -r docs
+- docs 폴더를 깃의 관리에서 삭제(Remove files from the working tree and from the index)
